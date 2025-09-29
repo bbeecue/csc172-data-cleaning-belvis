@@ -567,6 +567,29 @@ Do you want me to also show you **before vs. after boxplots** for one column (li
 
 ```
 
-## Results
+## Results & Snapshots
 - Rows before: 32561
 - Rows after: 32537
+
+**Before**
+1. Sample Rows
+<img width="745" height="636" alt="Screenshot 2025-09-30 at 12 03 00 AM" src="https://github.com/user-attachments/assets/cdafd862-380c-41ae-b8ad-669d9b2d971b" />
+
+2. Shape and Non-numerical attributes summary
+<img width="745" height="627" alt="Screenshot 2025-09-30 at 12 04 02 AM" src="https://github.com/user-attachments/assets/fb2b80d5-9335-46a3-a91b-9d4f75db9cb7" />
+
+3. Numerical attributes Statistical Summary
+<img width="745" height="180" alt="Screenshot 2025-09-30 at 12 05 07 AM" src="https://github.com/user-attachments/assets/ba4d4287-7cd0-4895-a228-fd390bb8a83c" />
+
+**After**
+1. Sample Rows
+<img width="745" height="488" alt="Screenshot 2025-09-30 at 12 06 07 AM" src="https://github.com/user-attachments/assets/4a2e058c-f0f9-4f33-86bf-b96f5b7e6f3e" />
+
+2. Shape and Non-numerical attributes summary
+<img width="745" height="595" alt="Screenshot 2025-09-30 at 12 06 30 AM" src="https://github.com/user-attachments/assets/0ba8aa4d-51a4-4784-891a-fe2a915f92ea" />
+
+
+3. Numerical attributes Statistical Summary
+<img width="745" height="183" alt="Screenshot 2025-09-30 at 12 06 54 AM" src="https://github.com/user-attachments/assets/275bcd28-0b19-4a43-a30d-43d3644a004f" />
+
+
